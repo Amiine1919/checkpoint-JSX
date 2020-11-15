@@ -1,0 +1,13 @@
+.title {
+  font-style: italic;
+  text-align: center;
+}
+
+.red{
+  color: red;
+}
+
+.myStyle{
+  border:solid 1px black;
+  max-width: 100vw;
+}
